@@ -1,0 +1,1 @@
+![mountains](/rsschool-cv/images//logo.jpg "Logo RSSchool") #Hi, my name is Roman Goncharov (*in the passport my surname is written Goncarov*)!
