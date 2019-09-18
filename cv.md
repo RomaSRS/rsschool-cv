@@ -1,12 +1,12 @@
 ![mountains](/rsschool-cv/images/logo.jpg "Logo RSSchool")
 ## Hi, my name is Roman Goncharov!
 
-### You can contact me as follows:  
+### You can contact me as follows:
    * my phone number: +375297570176;
    * my e-mail: shaman.roman@tut.by;
    * my Skype: live:36eb6584d3d45c73;
    * my Telegram: @RomanSRS;
-   * I also have social networks: [Vk][1], [Ok][2], [facebook][3], [discord][4].  
+   * I also have social networks: [Vk][1], [Ok][2], [facebook][3], [discord][4].
 
    [1]: https://vk.com/id102971948
    [2]: https://ok.ru/profile420698075709
@@ -14,8 +14,8 @@
    [4]: https://discordapp.com/channels/618148975958163644/618148976058826840
 
 ### My goal is to learn how to make web applications. I would also like to acquire a new profession in demand on the labor market, to meet new interesting people. I think it’s no secret that a good programmer makes - good money. This is my motivation. In recent years, I have been working as an analyst, working with databases. I always liked to analyze, try to find some solutions often in unusual situations. Diving into programming, I realize that I have to learn, learn something new every day, as technologies develop every day!
-### I'm learning JavaScript, HTML, markdown syntax, work with Git.  
-   ### Code examples:  
+### I'm learning JavaScript, HTML, markdown syntax, work with Git.
+### Code examples:
 ```
 let calculator = {
     sum () {
