@@ -1,7 +1,7 @@
 ![mountains](/rsschool-cv/images/logo.jpg "Logo RSSchool")
-## Hi, my name is Roman Goncharov (*in the passport my surname is written Goncarov*)!
+## Hi, my name is Roman Goncharov!
 
-   ### You can contact me as follows:  
+### You can contact me as follows:  
    * my phone number: +375297570176;
    * my e-mail: shaman.roman@tut.by;
    * my Skype: live:36eb6584d3d45c73;
@@ -13,8 +13,8 @@
    [3]: https://www.facebook.com/profile.php?id=100002427159955
    [4]: https://discordapp.com/channels/618148975958163644/618148976058826840
 
-   ### My goal is to learn how to make web applications. I would also like to acquire a new profession in demand on the labor market, to meet new interesting people. I think it’s no secret that a good programmer makes - good money. This is my motivation. In recent years, I have been working as an analyst, working with databases. I always liked to analyze, try to find some solutions often in unusual situations. Diving into programming, I realize that I have to learn, learn something new every day, as technologies develop every day!
-   ### 1. I'm learning JavaScript, HTML, markdown syntax, work with Git.  
+### My goal is to learn how to make web applications. I would also like to acquire a new profession in demand on the labor market, to meet new interesting people. I think it’s no secret that a good programmer makes - good money. This is my motivation. In recent years, I have been working as an analyst, working with databases. I always liked to analyze, try to find some solutions often in unusual situations. Diving into programming, I realize that I have to learn, learn something new every day, as technologies develop every day!
+### 1. I'm learning JavaScript, HTML, markdown syntax, work with Git.  
    ### 2. Code examples:  
 ```
 let calculator = {
