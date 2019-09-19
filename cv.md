@@ -77,10 +77,3 @@ I also watched online webinars and layout intensives from Skillbox.
 ### 8. English.
 
 Unfortunately, I did not study English at school. I’m self-educating in this direction: Interner, various applications on the phone, watching videos on YouTube.
-### 7. Education.
-I have higher education, graduated from the Belarusian National Technical University with a degree in optoelectronic and laser devices and systems. Engineer.  
-I also watched online webinars and layout intensives from Skillbox.
-
-### 8. English.
-
-Unfortunately, I did not study English at school. I’m self-educating in this direction: Interner, various applications on the phone, watching videos on YouTube.
