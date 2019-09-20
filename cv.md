@@ -11,9 +11,9 @@ You can contact me as follows:
    * my phone number: ![alt - phone](/rsschool-cv/images/phone_icon.png "phone") +375297570176;
    * my e-mail: ![alt - mail](/rsschool-cv/images/mail_icon.png "mail") shaman.roman@tut.by;
    * my Skype: ![alt - Skype](/rsschool-cv/images/skype_icon.png "Skype") live:36eb6584d3d45c73;
-   * my Telegram: ![alt - Telegram](/rsschool-cv/images/tel.png "Telegram") @RomanSRS;
+   * my Telegram: ![alt - Telegram](/rsschool-cv/images/tel_icon.png "Telegram") @RomanSRS;
    * I also have social networks:  
-   [![alt - logo](/rsschool-cv/images/vk_icon.png)][Vk]  [![alt - logo](/rsschool-cv/images/ok_icon.png)][Ok] [![alt - logo](/rsschool-cv/images/face_icon.png)][Facebook] [![alt - logo](/rsschool-cv/images/disc_icon.png)][Discord].  
+   [![alt - logo](/rsschool-cv/images/vk_icon.png)][Vk]  [![alt - logo](/rsschool-cv/images/ok_icon.png)][Ok] [![alt - logo](/rsschool-cv/images/face_icon.png)][Facebook] [![alt - logo](/rsschool-cv/images/disc_icon.png)][Discord]  
 
    [Vk]: https://vk.com/id102971948
    [Ok]: https://ok.ru/profile420698075709
