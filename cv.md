@@ -24,13 +24,13 @@ You can contact me as follows:
 
 
 My goal is to learn how to make web applications. I would also like to acquire a new profession in demand on the labor market, to meet new interesting people. I think it’s no secret that a good programmer makes - good money. This is my motivation.  
-In recent years, I have been working as an analyst, working with databases. I always liked to analyze, try to find some solutions often in unusual situations.  
+In recent years, I have been working as an analyst,working with databases. I always liked to analyze, try to find some solutions often in unusual situations.  
 Diving into programming, I realize that I have to learn, learn something new every day, as technologies develop every day!
 
 ### 4. My skills.
 
 
-I'm learning JavaScript, HTML, markdown syntax, work with Git.
+I work with JavaScript, HTML and CSS, markdown syntax, working with Git in the terminal. I use Visual Studio Code and [Photopea](https://www.photopea.com) for working with images.
 
 ### 5. Code examples: 
 
