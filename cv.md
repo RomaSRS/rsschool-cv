@@ -30,7 +30,7 @@ Diving into programming, I realize that I have to learn, learn something new eve
 ### 4. My skills.
 
 
-I work with JavaScript, HTML and CSS, markdown syntax, working with Git in the terminal. I use Visual Studio Code and [Photopea](https://www.photopea.com) for working with images.
+I'm working with JavaScript, HTML and CSS, markdown syntax, working with Git in the terminal. I'm using Visual Studio Code and [Photopea](https://www.photopea.com) for working with images.
 
 ### 5. Code examples: 
 
