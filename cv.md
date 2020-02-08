@@ -618,7 +618,7 @@ let query = function() {
 ### 6. Experience.
 
 
-I have no experience in programming, only solving any tasks in teaching JS and HTML.
+I have no experience in programming, only solving any tasks in teaching JS and HTML. [Link to my portfolio](https://happy-boyd-4e31bd.netlify.com/)
 
 ### 7. Education.
 
