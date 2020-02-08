@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML, CSS & Git Basics</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <div class="size">
+        <header class="header">
+          <img src="images/logo.jpg" width="100px" height="100px" alt="Rsschool">
+            <h1>Task for Rsschool: HTML, CSS & Git Basics</h1>
+        </header>
+        <main class="wrapper">
+            
+            <section class="name">
+              <img src="images/DSCF0288.JPG" width="175px" height="250px" alt="My foto" class="foto">
+              <h2>1. My name.</h2>
+                <p>Hi, my name is Roman Goncharov.</p>
+            </section>
+
+            <section class="contacts">
+              <h2>2. My contacts.</h2>
+                <p>
+                  You can contact me as follows:  
+                    <li>my phone number: <img src="images/phone_icon.png" alt="phone"> +375297570176;</li>
+                    <li>my e-mail: <img src="images/mail_icon.png" alt="mail"> shaman.roman@tut.by;</li>
+                    <li>my Skype: <img src="images/skype_icon.png" alt="Skype"> live:36eb6584d3d45c73;</li>
+                    <li>my Telegram: <img src="images/tel_icon.png" alt="Telegram"> @RomanSRS;</li>
+                    <li>I also have social networks: </br>
+                    <a href="https://vk.com/id102971948"><img src="images/vk_icon.png" alt="Vk"></a>
+                    <a href="https://ok.ru/profile420698075709"><img src="images/ok_icon.png" alt="Ok"></a>
+                    <a href="https://www.facebook.com/profile.php?id=100002427159955"><img src="images/face_icon.png" alt="Facebook"></a>
+                    <a href="https://discordapp.com/channels/618148975958163644/618148976058826840 "><img src="images/disc_icon.png" alt="Discord"></a>
+                    </li>
+                </p>
+            </section>
+
+            <section class="present">
+              <h2>3. Self-presentation.</h2>
+                <p>
+                  My goal is to learn how to make web applications. I would also like to acquire a new profession in demand on the labor market, to meet new interesting people. I think it’s no secret that a good programmer makes - good money. This is my motivation.  
+                  In recent years, I have been working as an analyst,working with databases. I always liked to analyze, try to find some solutions often in unusual situations.  
+                  Diving into programming, I realize that I have to learn, learn something new every day, as technologies develop every day!
+                </p>
+            </section>
+
+            <section class="skill">
+              <h2>4. My skills.</h2>
+                <p>
+                  I'm working with JavaScript, HTML and CSS, markdown syntax, working with Git in the terminal. I'm using Visual Studio Code and <a href="https://www.photopea.com">Photopea</a> for working with images.
+                </p>
+            </section>
+
+            <section class="code">
+              <h2>5. Code examples: </h2>
+                <pre><p>
+                  let calculator = {
+                      sum () {
+                        return this.a + this.b;
+                    },
+                
+                      mul () {
+                        return this.a * this.b
+                
+                      read () {
+                        this.a = +prompt ('a?', '0');
+                        this.b = +prompt ('b?', '0');
+                      }
+                    };
+                  
+                  calculator.read();</br>
+                  alert( calculator.sum() );
+                  alert( calculator.mul() );
+                  </p></pre>
+                <p>or</p><pre><p>
+                  function Calculator () {
+                      this.read = function () {
+                        this.a = +prompt ('a?', '0');
+                        this.b = +prompt ('b?', '0');
+                      },
+                  
+                      this.sum = function () {
+                        return this.a + this.b;
+                    },
+                  
+                      this.mul = function () {
+                        return this.a * this.b
+                    }
+                  };
+                  
+                  let calculator = new Calculator();
+                  calculator.read();
+                  alert( "Sum = " + calculator.sum() );
+                  alert( "Mul = " + calculator.mul() );</p></pre>
+            </section>
+
+            <section class="experience">
+              <h2>6. Experience.</h2>
+                <p>
+                  I have no experience in programming, only solving any tasks in teaching JS and HTML.
+                </p>
+            </section>
+
+            <section class="education">
+              <h2>7. Education.</h2>
+                <p>
+                  I have higher education, graduated from the Belarusian National Technical University with a degree in optoelectronic and laser devices and systems. Engineer.  
+                  I also watched online webinars and layout intensives from Skillbox.
+                </p>
+            </section>
+
+            <section class="english">
+              <h2>8. English.</h2>
+                <p>
+                  Unfortunately, I did not study English at school. I’m self-educating in this direction: Interner, various applications on the phone, watching videos on YouTube.
+                </p>
+            </section>
+
+        </main>
+        <footer class="footer">
+            <img src="images/logo.jpg" width="60px" height="60px" alt="Rsschool">
+            <h3>produced by Roman Goncharov</h3>
+        </footer>
+    </div>
+
+</body>
+</html>
